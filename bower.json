@@ -1,0 +1,22 @@
+{
+  "name": "angularjs",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "ispace_git <suwit471661124@outlook.co.th>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.5",
+    "angular-route": "^1.6.5",
+    "angular-resource": "^1.6.5"
+  }
+}
